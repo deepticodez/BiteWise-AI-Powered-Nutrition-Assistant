@@ -13,10 +13,10 @@
 - 🔄 **Scalable**: Easily extendable to support more classes or switch data sources
 
 ---
-
 ## 📦 Dataset Used
 
-- **[Food-101](https://www.tensorflow.org/datasets/catalog/food101)**: A popular dataset of 101 food categories used to train the model component of BiteWise.
+- **[Food-11](https://www.tensorflow.org/datasets/food101)**: A dataset consisting of 11 distinct food categories used to train the model component of BiteWise. The dataset includes labeled images for various food types, enabling accurate food classification for features like smart nutrition tracking and food recognition.
+
 
 ---
 
