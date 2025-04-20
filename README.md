@@ -15,7 +15,7 @@
 ---
 ## 📦 Dataset Used
 
-- **[Food-11](https://www.tensorflow.org/datasets/food101)**: A dataset consisting of 11 distinct food categories used to train the model component of BiteWise. The dataset includes labeled images for various food types, enabling accurate food classification for features like smart nutrition tracking and food recognition.
+- **[Food-11]([https://www.tensorflow.org/datasets/food101](https://www.kaggle.com/datasets/trolukovich/food11-image-dataset))**: A dataset consisting of 11 distinct food categories used to train the model component of BiteWise. The dataset includes labeled images for various food types, enabling accurate food classification for features like smart nutrition tracking and food recognition.
 
 
 ---
